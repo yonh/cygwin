@@ -1,0 +1,425 @@
+2016/03/15 15:55:22 Starting cygwin install, version 2.873
+2016/03/15 15:55:22 User has backup/restore rights
+2016/03/15 15:55:22 Current Directory: C:\cygwin\local_packages
+2016/03/15 15:55:22 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2016/03/15 15:55:29 source: network install
+2016/03/15 15:55:33 root: C:\cygwin system
+2016/03/15 15:55:50 Selected local directory: C:\Documents and Settings\yonh\桌面
+2016/03/15 15:55:51 net: Direct
+2016/03/15 15:56:09 site: http://cygwin.mirror.constant.com/
+2016/03/15 15:57:06 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2016/03/15 15:57:07 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2016/03/15 15:58:17 Adding required dependency bzip2: Selecting version 1.0.6-2 for installation.
+2016/03/15 15:58:17 Adding required dependency ca-certificates: Selecting version 2.6-1 for installation.
+2016/03/15 15:58:17 Adding required dependency crypt: Selecting version 1.2-1 for installation.
+2016/03/15 15:58:17 Adding required dependency csih: Selecting version 0.9.9-1 for installation.
+2016/03/15 15:58:17 Adding required dependency cygrunsrv: Selecting version 1.62-1 for installation.
+2016/03/15 15:58:17 Adding required dependency diffutils: Selecting version 3.3-3 for installation.
+2016/03/15 15:58:17 Adding required dependency groff: Selecting version 1.22.3-1 for installation.
+2016/03/15 15:58:17 Adding required dependency less: Selecting version 481-1 for installation.
+2016/03/15 15:58:17 Adding required dependency libargp: Selecting version 20110921-2 for installation.
+2016/03/15 15:58:17 Adding required dependency libattr1: Selecting version 2.4.46-1 for installation.
+2016/03/15 15:58:17 Adding required dependency libblkid1: Selecting version 2.25.2-2 for installation.
+2016/03/15 15:58:17 Adding required dependency libbz2_1: Selecting version 1.0.6-2 for installation.
+2016/03/15 15:58:17 Adding required dependency libcom_err2: Selecting version 1.42.12-2 for installation.
+2016/03/15 15:58:17 Adding required dependency libedit0: Selecting version 20130712-1 for installation.
+2016/03/15 15:58:17 Adding required dependency libffi6: Selecting version 3.2.1-1 for installation.
+2016/03/15 15:58:17 Adding required dependency libgcc1: Selecting version 5.3.0-3 for installation.
+2016/03/15 15:58:17 Adding required dependency libgdbm4: Selecting version 1.8.3-20 for installation.
+2016/03/15 15:58:17 Adding required dependency libgmp10: Selecting version 6.1.0-3p1 for installation.
+2016/03/15 15:58:17 Adding required dependency libgssapi_krb5_2: Selecting version 1.13.2-4 for installation.
+2016/03/15 15:58:17 Adding required dependency libiconv: Selecting version 1.14-3 for installation.
+2016/03/15 15:58:17 Adding required dependency libiconv2: Selecting version 1.14-3 for installation.
+2016/03/15 15:58:17 Adding required dependency libintl8: Selecting version 0.19.5.1-2 for installation.
+2016/03/15 15:58:17 Adding required dependency libk5crypto3: Selecting version 1.13.2-4 for installation.
+2016/03/15 15:58:17 Adding required dependency libkrb5support0: Selecting version 1.13.2-4 for installation.
+2016/03/15 15:58:17 Adding required dependency libkrb5_3: Selecting version 1.13.2-4 for installation.
+2016/03/15 15:58:17 Adding required dependency liblzma5: Selecting version 5.2.2-1 for installation.
+2016/03/15 15:58:17 Adding required dependency libmpfr4: Selecting version 3.1.4-1 for installation.
+2016/03/15 15:58:17 Adding required dependency libncursesw10: Selecting version 6.0-4.20160305 for installation.
+2016/03/15 15:58:17 Adding required dependency libp11-kit0: Selecting version 0.22.1-1 for installation.
+2016/03/15 15:58:17 Adding required dependency libpcre1: Selecting version 8.38-2 for installation.
+2016/03/15 15:58:17 Adding required dependency libpipeline1: Selecting version 1.4.0-1 for installation.
+2016/03/15 15:58:17 Adding required dependency libsigsegv2: Selecting version 2.10-2 for installation.
+2016/03/15 15:58:17 Adding required dependency libsmartcols1: Selecting version 2.25.2-2 for installation.
+2016/03/15 15:58:17 Adding required dependency libssp0: Selecting version 5.3.0-3 for installation.
+2016/03/15 15:58:17 Adding required dependency libstdc++6: Selecting version 5.3.0-3 for installation.
+2016/03/15 15:58:17 Adding required dependency libtasn1_6: Selecting version 4.7-1 for installation.
+2016/03/15 15:58:17 Adding required dependency libuuid1: Selecting version 2.25.2-2 for installation.
+2016/03/15 15:58:17 Adding required dependency lynx: Selecting version 2.8.7-1 for installation.
+2016/03/15 15:58:17 Adding required dependency p11-kit: Selecting version 0.22.1-1 for installation.
+2016/03/15 15:58:17 Adding required dependency p11-kit-trust: Selecting version 0.22.1-1 for installation.
+2016/03/15 15:58:17 Adding required dependency popt: Selecting version 1.16-1 for installation.
+2016/03/15 15:58:17 Adding required dependency xz: Selecting version 5.2.2-1 for installation.
+2016/03/15 15:58:17 Adding required dependency zlib0: Selecting version 1.2.8-3 for installation.
+2016/03/15 15:58:40 Can't resolve `cygwin.mirror.constant.com'
+2016/03/15 15:59:02 Can't resolve `cygwin.mirror.constant.com'
+2016/03/15 15:59:25 Can't resolve `cygwin.mirror.constant.com'
+2016/03/15 15:59:35 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/base-files/base-files-4.2-4.tar.xz
+2016/03/15 16:00:02 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/bash/bash-4.3.42-4.tar.xz
+2016/03/15 16:00:14 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/bzip2/bzip2-1.0.6-2.tar.bz2
+2016/03/15 16:00:24 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/ca-certificates/ca-certificates-2.6-1.tar.xz
+2016/03/15 16:01:11 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/coreutils/coreutils-8.25-1.tar.xz
+2016/03/15 16:01:15 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/crypt/crypt-1.2-1.tar.bz2
+2016/03/15 16:01:24 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/csih/csih-0.9.9-1.tar.xz
+2016/03/15 16:01:28 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/cygrunsrv/cygrunsrv-1.62-1.tar.xz
+2016/03/15 16:01:32 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/cygutils/cygutils-1.4.15-2.tar.xz
+2016/03/15 16:02:18 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/cygwin/cygwin-2.4.1-1.tar.xz
+2016/03/15 16:02:22 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/dash/dash-0.5.8-3.tar.xz
+2016/03/15 16:02:47 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/diffutils/diffutils-3.3-3.tar.xz
+2016/03/15 16:02:52 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/editrights/editrights-1.03-1.tar.xz
+2016/03/15 16:03:15 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/file/file-5.25-1.tar.xz
+2016/03/15 16:03:28 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/findutils/findutils-4.6.0-1.tar.xz
+2016/03/15 16:04:09 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gawk/gawk-4.1.3-1.tar.xz
+2016/03/15 16:04:11 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/getent/getent-2.18.90-4.tar.xz
+2016/03/15 16:04:24 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/grep/grep-2.21-2.tar.xz
+2016/03/15 16:05:27 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/groff/groff-1.22.3-1.tar.xz
+2016/03/15 16:05:32 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gzip/gzip-1.6-1.tar.xz
+2016/03/15 16:05:35 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/hostname/hostname-3.13-1.tar.bz2
+2016/03/15 16:05:50 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/texinfo/info/info-6.1-2.tar.xz
+2016/03/15 16:05:55 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/ipc-utils/ipc-utils-1.0-1.tar.bz2
+2016/03/15 16:06:00 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/less/less-481-1.tar.xz
+2016/03/15 16:06:03 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libargp/libargp-20110921-2.tar.bz2
+2016/03/15 16:06:07 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2016/03/15 16:06:12 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2016/03/15 16:06:14 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/bzip2/libbz2_1/libbz2_1-1.0.6-2.tar.bz2
+2016/03/15 16:06:16 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/e2fsprogs/libcom_err2/libcom_err2-1.42.12-2.tar.xz
+2016/03/15 16:06:22 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libedit/libedit0/libedit0-20130712-1.tar.xz
+2016/03/15 16:06:25 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2016/03/15 16:06:29 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gcc/libgcc1/libgcc1-5.3.0-3.tar.xz
+2016/03/15 16:06:37 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gdbm/libgdbm4/libgdbm4-1.8.3-20.tar.bz2
+2016/03/15 16:06:45 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gmp/libgmp10/libgmp10-6.1.0-3p1.tar.xz
+2016/03/15 16:06:50 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/krb5/libgssapi_krb5_2/libgssapi_krb5_2-1.13.2-4.tar.xz
+2016/03/15 16:06:55 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libiconv/libiconv-1.14-3.tar.xz
+2016/03/15 16:07:10 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2016/03/15 16:07:14 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gettext/libintl8/libintl8-0.19.5.1-2.tar.xz
+2016/03/15 16:07:18 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/krb5/libk5crypto3/libk5crypto3-1.13.2-4.tar.xz
+2016/03/15 16:07:28 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/krb5/libkrb5_3/libkrb5_3-1.13.2-4.tar.xz
+2016/03/15 16:07:31 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/krb5/libkrb5support0/libkrb5support0-1.13.2-4.tar.xz
+2016/03/15 16:07:35 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/xz/liblzma5/liblzma5-5.2.2-1.tar.xz
+2016/03/15 16:07:44 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/mpfr/libmpfr4/libmpfr4-3.1.4-1.tar.xz
+2016/03/15 16:07:52 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/ncurses/libncursesw10/libncursesw10-6.0-4.20160305.tar.xz
+2016/03/15 16:08:09 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.2g-3.tar.xz
+2016/03/15 16:08:13 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/p11-kit/libp11-kit0/libp11-kit0-0.22.1-1.tar.xz
+2016/03/15 16:08:20 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/pcre/libpcre1/libpcre1-8.38-2.tar.xz
+2016/03/15 16:08:23 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2016/03/15 16:08:29 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz
+2016/03/15 16:08:30 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2016/03/15 16:08:33 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2016/03/15 16:08:35 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gcc/libssp0/libssp0-5.3.0-3.tar.xz
+2016/03/15 16:08:46 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gcc/libstdc++6/libstdc++6-5.3.0-3.tar.xz
+2016/03/15 16:08:49 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libtasn1/libtasn1_6/libtasn1_6-4.7-1.tar.xz
+2016/03/15 16:08:52 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2016/03/15 16:08:55 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/login/login-1.11-1.tar.xz
+2016/03/15 16:09:27 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/lynx/lynx-2.8.7-1.tar.bz2
+2016/03/15 16:09:48 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/man-db/man-db-2.7.4-1.tar.xz
+2016/03/15 16:09:54 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/mintty/mintty-2.2.3-0.tar.xz
+2016/03/15 16:10:04 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/ncurses/ncurses-6.0-4.20160305.tar.xz
+2016/03/15 16:10:21 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/openssh/openssh-7.2p2-1.tar.xz
+2016/03/15 16:10:43 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/openssl/openssl-1.0.2g-3.tar.xz
+2016/03/15 16:10:49 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/p11-kit/p11-kit-0.22.1-1.tar.xz
+2016/03/15 16:10:54 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/p11-kit/p11-kit-trust/p11-kit-trust-0.22.1-1.tar.xz
+2016/03/15 16:10:59 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/popt/popt-1.16-1.tar.xz
+2016/03/15 16:11:22 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/rebase/rebase-4.4.2-1.tar.xz
+2016/03/15 16:11:26 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/run/run-1.3.4-2.tar.xz
+2016/03/15 16:11:39 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/sed/sed-4.2.2-3.tar.bz2
+2016/03/15 16:12:00 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/tar/tar-1.28-1.tar.xz
+2016/03/15 16:12:05 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/ncurses/terminfo/terminfo-6.0-4.20160305.tar.xz
+2016/03/15 16:12:13 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/tzcode/tzcode-2016a-1.tar.xz
+2016/03/15 16:12:45 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/util-linux/util-linux-2.25.2-2.tar.xz
+2016/03/15 16:12:56 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/vim/vim-minimal/vim-minimal-7.4.1558-1.tar.xz
+2016/03/15 16:12:59 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/which/which-2.20-2.tar.bz2
+2016/03/15 16:13:06 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/xz/xz-5.2.2-1.tar.xz
+2016/03/15 16:13:10 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/zlib/zlib0/zlib0-1.2.8-3.tar.xz
+2016/03/15 16:13:10 mbox yesno: Download Incomplete.  Try again?
+2016/03/15 16:14:04 site: http://cygwin.mirror.constant.com/
+2016/03/15 16:15:53 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/_autorebase/_autorebase-001003-2.tar.xz
+2016/03/15 16:15:58 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2016/03/15 16:15:59 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2016/03/15 16:16:02 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/_autorebase/_autorebase-001003-2.tar.xz
+2016/03/15 16:16:02 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2016/03/15 16:16:03 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2016/03/15 16:16:03 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/base-files/base-files-4.2-4.tar.xz
+2016/03/15 16:16:03 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/bash/bash-4.3.42-4.tar.xz
+2016/03/15 16:16:03 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/bzip2/bzip2-1.0.6-2.tar.bz2
+2016/03/15 16:16:03 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/ca-certificates/ca-certificates-2.6-1.tar.xz
+2016/03/15 16:16:04 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/coreutils/coreutils-8.25-1.tar.xz
+2016/03/15 16:16:06 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/crypt/crypt-1.2-1.tar.bz2
+2016/03/15 16:16:06 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/csih/csih-0.9.9-1.tar.xz
+2016/03/15 16:16:06 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/cygrunsrv/cygrunsrv-1.62-1.tar.xz
+2016/03/15 16:16:06 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/cygutils/cygutils-1.4.15-2.tar.xz
+2016/03/15 16:16:07 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/cygwin/cygwin-2.4.1-1.tar.xz
+2016/03/15 16:16:08 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/dash/dash-0.5.8-3.tar.xz
+2016/03/15 16:16:09 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/diffutils/diffutils-3.3-3.tar.xz
+2016/03/15 16:16:11 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/editrights/editrights-1.03-1.tar.xz
+2016/03/15 16:16:11 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/file/file-5.25-1.tar.xz
+2016/03/15 16:16:11 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/findutils/findutils-4.6.0-1.tar.xz
+2016/03/15 16:16:12 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gawk/gawk-4.1.3-1.tar.xz
+2016/03/15 16:16:13 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/getent/getent-2.18.90-4.tar.xz
+2016/03/15 16:16:13 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/grep/grep-2.21-2.tar.xz
+2016/03/15 16:16:13 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/groff/groff-1.22.3-1.tar.xz
+2016/03/15 16:16:18 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gzip/gzip-1.6-1.tar.xz
+2016/03/15 16:16:18 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/hostname/hostname-3.13-1.tar.bz2
+2016/03/15 16:16:18 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/texinfo/info/info-6.1-2.tar.xz
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/ipc-utils/ipc-utils-1.0-1.tar.bz2
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/less/less-481-1.tar.xz
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libargp/libargp-20110921-2.tar.bz2
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/bzip2/libbz2_1/libbz2_1-1.0.6-2.tar.bz2
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/e2fsprogs/libcom_err2/libcom_err2-1.42.12-2.tar.xz
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libedit/libedit0/libedit0-20130712-1.tar.xz
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gcc/libgcc1/libgcc1-5.3.0-3.tar.xz
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gdbm/libgdbm4/libgdbm4-1.8.3-20.tar.bz2
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gmp/libgmp10/libgmp10-6.1.0-3p1.tar.xz
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/krb5/libgssapi_krb5_2/libgssapi_krb5_2-1.13.2-4.tar.xz
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libiconv/libiconv-1.14-3.tar.xz
+2016/03/15 16:16:19 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2016/03/15 16:16:20 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gettext/libintl8/libintl8-0.19.5.1-2.tar.xz
+2016/03/15 16:16:20 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/krb5/libk5crypto3/libk5crypto3-1.13.2-4.tar.xz
+2016/03/15 16:16:20 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/krb5/libkrb5_3/libkrb5_3-1.13.2-4.tar.xz
+2016/03/15 16:16:20 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/krb5/libkrb5support0/libkrb5support0-1.13.2-4.tar.xz
+2016/03/15 16:16:20 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/xz/liblzma5/liblzma5-5.2.2-1.tar.xz
+2016/03/15 16:16:20 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/mpfr/libmpfr4/libmpfr4-3.1.4-1.tar.xz
+2016/03/15 16:16:21 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/ncurses/libncursesw10/libncursesw10-6.0-4.20160305.tar.xz
+2016/03/15 16:16:21 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.2g-3.tar.xz
+2016/03/15 16:16:21 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/p11-kit/libp11-kit0/libp11-kit0-0.22.1-1.tar.xz
+2016/03/15 16:16:21 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/pcre/libpcre1/libpcre1-8.38-2.tar.xz
+2016/03/15 16:16:21 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2016/03/15 16:16:21 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz
+2016/03/15 16:16:22 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2016/03/15 16:16:22 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2016/03/15 16:16:22 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gcc/libssp0/libssp0-5.3.0-3.tar.xz
+2016/03/15 16:16:22 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gcc/libstdc++6/libstdc++6-5.3.0-3.tar.xz
+2016/03/15 16:16:22 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libtasn1/libtasn1_6/libtasn1_6-4.7-1.tar.xz
+2016/03/15 16:16:22 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2016/03/15 16:16:22 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/login/login-1.11-1.tar.xz
+2016/03/15 16:16:22 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/lynx/lynx-2.8.7-1.tar.bz2
+2016/03/15 16:16:24 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/man-db/man-db-2.7.4-1.tar.xz
+2016/03/15 16:16:27 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/mintty/mintty-2.2.3-0.tar.xz
+2016/03/15 16:16:28 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/ncurses/ncurses-6.0-4.20160305.tar.xz
+2016/03/15 16:16:28 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/openssh/openssh-7.2p2-1.tar.xz
+2016/03/15 16:16:28 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/openssl/openssl-1.0.2g-3.tar.xz
+2016/03/15 16:16:29 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/p11-kit/p11-kit-0.22.1-1.tar.xz
+2016/03/15 16:16:29 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/p11-kit/p11-kit-trust/p11-kit-trust-0.22.1-1.tar.xz
+2016/03/15 16:16:29 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/popt/popt-1.16-1.tar.xz
+2016/03/15 16:16:29 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/rebase/rebase-4.4.2-1.tar.xz
+2016/03/15 16:16:29 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/run/run-1.3.4-2.tar.xz
+2016/03/15 16:16:29 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/sed/sed-4.2.2-3.tar.bz2
+2016/03/15 16:16:29 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/tar/tar-1.28-1.tar.xz
+2016/03/15 16:16:30 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/ncurses/terminfo/terminfo-6.0-4.20160305.tar.xz
+2016/03/15 16:16:31 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/tzcode/tzcode-2016a-1.tar.xz
+2016/03/15 16:16:39 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/util-linux/util-linux-2.25.2-2.tar.xz
+2016/03/15 16:16:40 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/vim/vim-minimal/vim-minimal-7.4.1558-1.tar.xz
+2016/03/15 16:16:40 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/which/which-2.20-2.tar.bz2
+2016/03/15 16:16:41 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/xz/xz-5.2.2-1.tar.xz
+2016/03/15 16:16:41 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/zlib/zlib0/zlib0-1.2.8-3.tar.xz
+2016/03/15 16:16:41 Changing gid back to original
+2016/03/15 16:16:41 running: C:\cygwin\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2016/03/15 16:16:46 running: C:\cygwin\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2016/03/15 16:16:47 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2016/03/15 16:16:47 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2016/03/15 16:16:47 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/bash.sh"
+2016/03/15 16:16:48 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+2016/03/15 16:16:48 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+2016/03/15 16:16:48 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2016/03/15 16:16:50 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/lynx.sh"
+2016/03/15 16:16:50 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2016/03/15 16:16:50 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/mintty.sh"
+2016/03/15 16:16:50 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/openssh.sh"
+2016/03/15 16:16:50 Changing gid to Administrators
+2016/03/15 16:17:16 note: Installation Complete
+2016/03/15 16:17:16 Ending cygwin install
+2016/03/15 16:28:13 Starting cygwin install, version 2.873
+2016/03/15 16:28:13 User has backup/restore rights
+2016/03/15 16:28:13 Current Directory: C:\Documents and Settings\yonh\桌面
+2016/03/15 16:28:13 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2016/03/15 16:28:27 source: network install
+2016/03/15 16:28:29 root: C:\cygwin system
+2016/03/15 16:28:30 Selected local directory: C:\Documents and Settings\yonh\桌面
+2016/03/15 16:28:31 net: Direct
+2016/03/15 16:28:34 site: http://cygwin.mirror.constant.com/
+2016/03/15 16:30:30 Adding required dependency bc: Selecting version 1.06.95-2 for installation.
+2016/03/15 16:30:30 Adding required dependency binutils: Selecting version 2.25-4 for installation.
+2016/03/15 16:30:30 Adding required dependency cygwin-devel: Selecting version 2.4.1-1 for installation.
+2016/03/15 16:30:30 Adding required dependency libcharset1: Selecting version 1.14-3 for installation.
+2016/03/15 16:30:30 Adding required dependency libcurl4: Selecting version 7.47.1-1 for installation.
+2016/03/15 16:30:30 Adding required dependency libdb4.8: Selecting version 4.8.30-1 for installation.
+2016/03/15 16:30:30 Adding required dependency libexpat1: Selecting version 2.1.0-3 for installation.
+2016/03/15 16:30:30 Adding required dependency libgnutls28: Selecting version 3.3.17-1 for installation.
+2016/03/15 16:30:30 Adding required dependency libhogweed2: Selecting version 2.7.1-1 for installation.
+2016/03/15 16:30:30 Adding required dependency libiconv-devel: Selecting version 1.14-3 for installation.
+2016/03/15 16:30:30 Adding required dependency libidn11: Selecting version 1.29-1 for installation.
+2016/03/15 16:30:30 Adding required dependency libintl-devel: Selecting version 0.19.5.1-2 for installation.
+2016/03/15 16:30:30 Adding required dependency libnettle4: Selecting version 2.7.1-1 for installation.
+2016/03/15 16:30:30 Adding required dependency libnghttp2_14: Selecting version 1.7.1-1 for installation.
+2016/03/15 16:30:30 Adding required dependency libopenldap2_4_2: Selecting version 2.4.42-1 for installation.
+2016/03/15 16:30:30 Adding required dependency libpsl5: Selecting version 0.12.0-1 for installation.
+2016/03/15 16:30:30 Adding required dependency libsasl2_3: Selecting version 2.1.26-9 for installation.
+2016/03/15 16:30:30 Adding required dependency libsqlite3_0: Selecting version 3.11.1-1 for installation.
+2016/03/15 16:30:30 Adding required dependency libssh2_1: Selecting version 1.7.0-1 for installation.
+2016/03/15 16:30:30 Adding required dependency libunistring2: Selecting version 0.9.6-1 for installation.
+2016/03/15 16:30:30 Adding required dependency libuuid-devel: Selecting version 2.25.2-2 for installation.
+2016/03/15 16:30:30 Adding required dependency perl: Selecting version 5.22.1-2 for installation.
+2016/03/15 16:30:30 Adding required dependency perl-Error: Selecting version 0.17024-1 for installation.
+2016/03/15 16:30:30 Adding required dependency perl-TermReadKey: Selecting version 2.33-1 for installation.
+2016/03/15 16:30:30 Adding required dependency perl_autorebase: Selecting version 5.22.1-2 for installation.
+2016/03/15 16:30:30 Adding required dependency perl_base: Selecting version 5.22.1-2 for installation.
+2016/03/15 16:30:30 Adding required dependency python: Selecting version 2.7.10-1 for installation.
+2016/03/15 16:30:30 Adding required dependency rsync: Selecting version 3.1.2-1 for installation.
+2016/03/15 16:30:30 Adding required dependency zlib-devel: Selecting version 1.2.8-3 for installation.
+2016/03/15 16:30:34 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/bc/bc-1.06.95-2.tar.xz
+2016/03/15 16:31:25 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/binutils/binutils-2.25-4.tar.xz
+2016/03/15 16:31:33 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/cygwin/cygwin-devel/cygwin-devel-2.4.1-1.tar.xz
+2016/03/15 16:31:59 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/fish/fish-2.2.0-3.tar.xz
+2016/03/15 16:34:39 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/git/git-2.7.0-1.tar.xz
+2016/03/15 16:34:45 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libiconv/libcharset1/libcharset1-1.14-3.tar.xz
+2016/03/15 16:34:56 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/curl/libcurl4/libcurl4-7.47.1-1.tar.xz
+2016/03/15 16:35:14 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/db4.8/libdb4.8/libdb4.8-4.8.30-1.tar.bz2
+2016/03/15 16:35:20 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/expat/libexpat1/libexpat1-2.1.0-3.tar.bz2
+2016/03/15 16:35:44 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gnutls/libgnutls28/libgnutls28-3.3.17-1.tar.xz
+2016/03/15 16:35:52 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/nettle/libhogweed2/libhogweed2-2.7.1-1.tar.xz
+2016/03/15 16:36:06 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libiconv/libiconv-devel/libiconv-devel-1.14-3.tar.xz
+2016/03/15 16:36:13 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libidn/libidn11/libidn11-1.29-1.tar.xz
+2016/03/15 16:36:17 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gettext/libintl-devel/libintl-devel-0.19.5.1-2.tar.xz
+2016/03/15 16:36:30 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/nettle/libnettle4/libnettle4-2.7.1-1.tar.xz
+2016/03/15 16:36:37 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/nghttp2/libnghttp2_14/libnghttp2_14-1.7.1-1.tar.xz
+2016/03/15 16:36:42 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/openldap/libopenldap2_4_2/libopenldap2_4_2-2.4.42-1.tar.xz
+2016/03/15 16:36:49 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libpsl/libpsl5/libpsl5-0.12.0-1.tar.xz
+2016/03/15 16:36:55 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/cyrus-sasl/libsasl2_3/libsasl2_3-2.1.26-9.tar.xz
+2016/03/15 16:37:04 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/sqlite3/libsqlite3_0/libsqlite3_0-3.11.1-1.tar.xz
+2016/03/15 16:37:09 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libssh2/libssh2_1/libssh2_1-1.7.0-1.tar.xz
+2016/03/15 16:37:19 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libunistring/libunistring2/libunistring2-0.9.6-1.tar.xz
+2016/03/15 16:37:21 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/util-linux/libuuid-devel/libuuid-devel-2.25.2-2.tar.xz
+2016/03/15 16:38:17 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/perl/perl-5.22.1-2.tar.xz
+2016/03/15 16:38:20 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/perl-Error/perl-Error-0.17024-1.tar.xz
+2016/03/15 16:38:23 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/perl-TermReadKey/perl-TermReadKey-2.33-1.tar.xz
+2016/03/15 16:38:25 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/perl/perl_autorebase/perl_autorebase-5.22.1-2.tar.xz
+2016/03/15 16:39:05 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/perl/perl_base/perl_base-5.22.1-2.tar.xz
+2016/03/15 16:41:19 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/python/python-2.7.10-1.tar.xz
+2016/03/15 16:41:40 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/rsync/rsync-3.1.2-1.tar.xz
+2016/03/15 16:41:57 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/wget/wget-1.17.1-1.tar.xz
+2016/03/15 16:42:02 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/zlib/zlib-devel/zlib-devel-1.2.8-3.tar.xz
+2016/03/15 16:42:05 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/bc/bc-1.06.95-2.tar.xz
+2016/03/15 16:42:05 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/binutils/binutils-2.25-4.tar.xz
+2016/03/15 16:42:08 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/cygwin/cygwin-devel/cygwin-devel-2.4.1-1.tar.xz
+2016/03/15 16:42:09 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/fish/fish-2.2.0-3.tar.xz
+2016/03/15 16:42:18 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/git/git-2.7.0-1.tar.xz
+2016/03/15 16:42:53 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libiconv/libcharset1/libcharset1-1.14-3.tar.xz
+2016/03/15 16:42:54 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/curl/libcurl4/libcurl4-7.47.1-1.tar.xz
+2016/03/15 16:42:54 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/db4.8/libdb4.8/libdb4.8-4.8.30-1.tar.bz2
+2016/03/15 16:42:54 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/expat/libexpat1/libexpat1-2.1.0-3.tar.bz2
+2016/03/15 16:42:54 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gnutls/libgnutls28/libgnutls28-3.3.17-1.tar.xz
+2016/03/15 16:42:55 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/nettle/libhogweed2/libhogweed2-2.7.1-1.tar.xz
+2016/03/15 16:42:55 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libiconv/libiconv-devel/libiconv-devel-1.14-3.tar.xz
+2016/03/15 16:42:55 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libidn/libidn11/libidn11-1.29-1.tar.xz
+2016/03/15 16:42:55 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/gettext/libintl-devel/libintl-devel-0.19.5.1-2.tar.xz
+2016/03/15 16:42:55 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/nettle/libnettle4/libnettle4-2.7.1-1.tar.xz
+2016/03/15 16:42:55 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/nghttp2/libnghttp2_14/libnghttp2_14-1.7.1-1.tar.xz
+2016/03/15 16:42:55 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/openldap/libopenldap2_4_2/libopenldap2_4_2-2.4.42-1.tar.xz
+2016/03/15 16:42:55 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libpsl/libpsl5/libpsl5-0.12.0-1.tar.xz
+2016/03/15 16:42:57 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/cyrus-sasl/libsasl2_3/libsasl2_3-2.1.26-9.tar.xz
+2016/03/15 16:42:57 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/sqlite3/libsqlite3_0/libsqlite3_0-3.11.1-1.tar.xz
+2016/03/15 16:42:57 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libssh2/libssh2_1/libssh2_1-1.7.0-1.tar.xz
+2016/03/15 16:42:57 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libunistring/libunistring2/libunistring2-0.9.6-1.tar.xz
+2016/03/15 16:42:57 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/util-linux/libuuid-devel/libuuid-devel-2.25.2-2.tar.xz
+2016/03/15 16:42:57 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/perl/perl-5.22.1-2.tar.xz
+2016/03/15 16:43:04 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/perl-Error/perl-Error-0.17024-1.tar.xz
+2016/03/15 16:43:04 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/perl-TermReadKey/perl-TermReadKey-2.33-1.tar.xz
+2016/03/15 16:43:04 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/perl/perl_autorebase/perl_autorebase-5.22.1-2.tar.xz
+2016/03/15 16:43:04 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/perl/perl_base/perl_base-5.22.1-2.tar.xz
+2016/03/15 16:43:05 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/python/python-2.7.10-1.tar.xz
+2016/03/15 16:43:22 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/rsync/rsync-3.1.2-1.tar.xz
+2016/03/15 16:43:22 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/wget/wget-1.17.1-1.tar.xz
+2016/03/15 16:43:23 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/zlib/zlib-devel/zlib-devel-1.2.8-3.tar.xz
+2016/03/15 16:43:23 Changing gid back to original
+2016/03/15 16:43:23 running: C:\cygwin\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2016/03/15 16:43:33 running: C:\cygwin\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2016/03/15 16:43:35 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/fish.sh"
+2016/03/15 16:43:35 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/libsasl2_3.sh"
+2016/03/15 16:43:35 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/wget.sh"
+2016/03/15 16:43:35 Changing gid to Administrators
+2016/03/15 17:02:02 note: Installation Complete
+2016/03/15 17:02:02 Ending cygwin install
+2016/03/15 17:03:41 Starting cygwin install, version 2.873
+2016/03/15 17:03:41 User has backup/restore rights
+2016/03/15 17:03:41 Current Directory: C:\Documents and Settings\yonh\桌面
+2016/03/15 17:03:41 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2016/03/15 17:03:48 source: network install
+2016/03/15 17:03:54 root: C:\cygwin system
+2016/03/15 17:03:55 Selected local directory: C:\Documents and Settings\yonh\桌面
+2016/03/15 17:03:57 net: Direct
+2016/03/15 17:04:01 site: http://cygwin.mirror.constant.com/
+2016/03/15 17:14:00 Ending cygwin install
+2016/03/15 17:52:17 Starting cygwin install, version 2.873
+2016/03/15 17:52:17 User has backup/restore rights
+2016/03/15 17:52:17 Current Directory: C:\Documents and Settings\yonh\桌面
+2016/03/15 17:52:17 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2016/03/15 17:52:19 source: network install
+2016/03/15 17:52:20 root: C:\cygwin system
+2016/03/15 17:52:22 Selected local directory: C:\Documents and Settings\yonh\桌面
+2016/03/15 17:52:25 net: Direct
+2016/03/15 17:52:28 site: http://cygwin.mirror.constant.com/
+2016/03/19 18:06:07 Adding required dependency libmetalink3: Selecting version 0.1.2-1 for installation.
+2016/03/19 18:06:17 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/curl/curl-7.47.1-1.tar.xz
+2016/03/19 18:06:19 mbox yesno: Download Incomplete.  Try again?
+2016/03/19 18:06:57 site: http://cygwin.mirror.constant.com/
+2016/03/19 18:10:47 Ending cygwin install
+2016/03/19 18:10:51 Starting cygwin install, version 2.873
+2016/03/19 18:10:51 User has backup/restore rights
+2016/03/19 18:10:51 Current Directory: C:\Documents and Settings\yonh\桌面
+2016/03/19 18:10:51 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2016/03/19 18:10:56 source: network install
+2016/03/19 18:10:57 root: C:\cygwin system
+2016/03/19 18:10:58 Selected local directory: C:\Documents and Settings\yonh\桌面
+2016/03/19 18:10:59 net: Direct
+2016/03/19 18:11:02 site: http://cygwin.mirror.constant.com/
+2016/03/19 18:14:25 Adding required dependency libcrypt0: Selecting version 1.3-1 for installation.
+2016/03/19 18:14:25 Adding required dependency libmetalink3: Selecting version 0.1.2-1 for installation.
+2016/03/19 18:14:25 Adding required dependency perl-Carp: Selecting version 1.38-1 for installation.
+2016/03/19 18:14:26 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/crypt/crypt-1.3-1.tar.xz
+2016/03/19 18:17:09 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/git/git-2.7.4-1.tar.xz
+2016/03/19 18:17:27 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/grep/grep-2.24-1.tar.xz
+2016/03/19 18:17:28 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/crypt/libcrypt0/libcrypt0-1.3-1.tar.xz
+2016/03/19 18:17:31 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/expat/libexpat1/libexpat1-2.1.1-1.tar.xz
+2016/03/19 18:17:40 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/mintty/mintty-2.2.4-0.tar.xz
+2016/03/19 18:17:41 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/perl-Carp/perl-Carp-1.38-1.tar.xz
+2016/03/19 18:17:48 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/tzcode/tzcode-2016b-1.tar.xz
+2016/03/19 18:17:48 mbox yesno: Download Incomplete.  Try again?
+2016/03/19 18:17:51 site: http://cygwin.mirror.constant.com/
+2016/03/19 18:21:22 Downloaded C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libmetalink/libmetalink3/libmetalink3-0.1.2-1.tar.bz2
+2016/03/19 18:21:26 Running preremove script for  crypt
+2016/03/19 18:21:26 Running preremove script for  git
+2016/03/19 18:21:26 Running preremove script for  grep
+2016/03/19 18:21:26 Running preremove script for  libexpat1
+2016/03/19 18:21:26 Running preremove script for  mintty
+2016/03/19 18:21:26 Running preremove script for  tzcode
+2016/03/19 18:21:26 Uninstalling crypt
+2016/03/19 18:21:26 Uninstalling git
+2016/03/19 18:21:27 Uninstalling grep
+2016/03/19 18:21:27 Uninstalling libexpat1
+2016/03/19 18:21:27 Uninstalling mintty
+2016/03/19 18:21:27 Uninstalling tzcode
+2016/03/19 18:21:28 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/crypt/crypt-1.3-1.tar.xz
+2016/03/19 18:21:28 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/curl/curl-7.47.1-1.tar.xz
+2016/03/19 18:21:28 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/git/git-2.7.4-1.tar.xz
+2016/03/19 18:21:34 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/grep/grep-2.24-1.tar.xz
+2016/03/19 18:21:34 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/crypt/libcrypt0/libcrypt0-1.3-1.tar.xz
+2016/03/19 18:21:34 io_stream_cygfile: fopen(/usr/bin/cygcrypt-0.dll) failed 13 Permission denied
+2016/03/19 18:21:34 Failed to open cygfile:///usr/bin/cygcrypt-0.dll for writing.
+2016/03/19 18:21:41 io_stream_cygfile: fopen(/usr/bin/cygcrypt-0.dll) failed 13 Permission denied
+2016/03/19 18:21:41 Failed to open cygfile:///usr/bin/cygcrypt-0.dll for writing.
+2016/03/19 18:21:42 running: C:\cygwin\bin\kill.exe -TERM 1392
+2016/03/19 18:21:43 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/expat/libexpat1/libexpat1-2.1.1-1.tar.xz
+2016/03/19 18:21:43 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/libmetalink/libmetalink3/libmetalink3-0.1.2-1.tar.bz2
+2016/03/19 18:21:43 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/mintty/mintty-2.2.4-0.tar.xz
+2016/03/19 18:21:43 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/perl-Carp/perl-Carp-1.38-1.tar.xz
+2016/03/19 18:21:43 Extracting from file://C:\Documents and Settings\yonh\桌面/http%3a%2f%2fcygwin.mirror.constant.com%2f/x86/release/tzcode/tzcode-2016b-1.tar.xz
+2016/03/19 18:21:53 Changing gid back to original
+2016/03/19 18:21:53 running: C:\cygwin\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2016/03/19 18:21:59 running: C:\cygwin\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2016/03/19 18:22:00 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/mintty.sh"
+2016/03/19 18:22:00 Changing gid to Administrators
+2016/03/19 18:22:15 note: Installation Complete
+2016/03/19 18:22:15 Ending cygwin install

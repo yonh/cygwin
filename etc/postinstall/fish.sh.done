@@ -1,0 +1,7 @@
+if [ ! -f /etc/fish/config.fish ]
+then
+    /usr/bin/mkdir -p /etc/fish
+    /usr/bin/cp /etc/defaults/etc/fish/config.fish /etc/fish/config.fish
+fi
+
+rm -rf /tmp/fish*
